@@ -1,6 +1,6 @@
 # Healthy Eating Game
 
-An interactive drag-and-drop game that teaches in a pedagogic way how to follow the nutritional recommandations
+An interactive drag-and-drop game that teaches in a pedagogic way how to follow the nutritional recommendations
 
 ![Main game screen](docs/Start.png)
 
@@ -31,6 +31,12 @@ At the end, a personalized report tells each player what they did well and what 
 
 - Python 3.10+
 
+### Installation
+
+git clone https://github.com/ethanbriffard/healthy-eating-game.git
+cd healthy-eating-game
+pip install screeninfo
+python main.py
 
 ## License
 
@@ -38,4 +44,5 @@ Distributed under the MIT License — see `LICENSE` for details.
 
 ## Acknowledgments
 
-- Dietary recommendations given by www.mangerbouger.fr official national nutrition program of France
+- Dietary recommendations from www.mangerbouger.fr the official national nutrition program of France
+- The drawings exept the cheese are hand-drawn
